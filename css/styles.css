@@ -682,7 +682,6 @@ header {
   transition: border-color var(--transitions-time) var(--transitions);
 }
 
-.footer-form-input:hover,
 .footer-form-input:focus {
   border-color: var(--interactive-color);
 }
@@ -806,9 +805,7 @@ header {
   transition: border-color var(--transitions-time) var(--transitions);
 }
 
-.modal-label:hover > .modal-field,
 .modal-label:focus > .modal-field,
-.modal-label:hover > .modal-form-icon,
 .modal-label:focus > .modal-form-icon,
 .modal-field:focus + .modal-form-icon,
 .modal-field:focus {
@@ -869,7 +866,6 @@ header {
   transition: border-color var(--transitions-time) var(--transitions);
 }
 
-.modal-textarea:hover,
 .modal-textarea:focus {
   border-color: var(--interactive-color);
 }
